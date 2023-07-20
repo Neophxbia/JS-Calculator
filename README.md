@@ -1,0 +1,3 @@
+# JS-Calculator
+My first calculator.
+BRO I AINT GONNA LIE- I DONT KNOW HOW GITHUB WORKS...
